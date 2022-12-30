@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{992F47A3-63A1-4793-8B97-95CC8D557019}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.EF7JsonColumn PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EF7JsonColumn/appsettings.json">
+    <Files>
+      <File FileName="EF7JsonColumn/Data/DataContext.cs" Line="16" Column="106" />
+      <File FileName="EF7JsonColumn/Program.cs" />
+      <File FileName="EF7JsonColumn/HeroDetails.cs" />
+      <File FileName="EF7JsonColumn/Controllers/SuperHeroController.cs" />
+      <File FileName="EF7JsonColumn/appsettings.json" Line="3" Column="165" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EF7JsonColumn" expanded="True">
+            <Node name="EF7JsonColumn" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="appsettings.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

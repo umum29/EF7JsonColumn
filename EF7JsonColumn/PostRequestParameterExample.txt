@@ -1,0 +1,20 @@
+﻿[
+  {
+    "details": {
+      "name": "Spider man",
+      "city": "New York City"
+    }
+},
+{
+"details": {
+      "name": "Iron Man",
+      "city": "Malbuis"
+    }
+},
+{
+"details": {
+      "name": "DareDevil",
+      "city": "New York City"
+    }
+ }
+]
